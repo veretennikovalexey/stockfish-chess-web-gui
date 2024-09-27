@@ -9,6 +9,6 @@ git config --global user.email raidex@yandex.ru
 
 git add .
 git commit -m alex
-git push origin main
+git push origin master
 
 pause
